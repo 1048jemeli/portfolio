@@ -1,0 +1,21 @@
+#img{
+    height: 10%;
+    width: 10%;
+    float: none;
+}
+#img1{
+    height: 30%;
+    width: 20%;
+}
+p{
+    color: darkblue;
+    font-family: cursive;
+}
+ul{
+    color: deeppink;
+    font-family: fantasy;
+}
+h2{
+    color: plum;
+    font-style: italic;
+}
